@@ -22,3 +22,8 @@ body {
     top: 30px;
     left: 40px;
 } 
+
+.leftTen {
+    position: relative;
+    left: 10px;
+} 
