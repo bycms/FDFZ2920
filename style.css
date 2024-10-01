@@ -12,10 +12,13 @@ body {
 
 .topTitle {
     height: 170px; width: 90%;
+    padding-top: 300px;
+    background-color: linear-gradient(to right, rgb(118, 160, 194), rgb(138, 180, 214));
+    border-radius: 10px;
+}
+
+.standardBar {
     position: relative;
     top: 30px;
     left: 40px;
-    padding-top: 300px;
-    background-color: rgb(138, 180, 214);
-    border-radius: 10px;
-}
+} 
