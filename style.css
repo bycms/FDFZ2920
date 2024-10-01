@@ -13,7 +13,7 @@ body {
 .topTitle {
     height: 170px; width: 90%;
     padding-top: 300px;
-    background: linear-gradient(rgb(98, 140, 174) 0%, rgb(138, 180, 214) 100%);
+    background: linear-gradient(rgb(148, 190, 224) 0%, rgb(138, 180, 214) 50%, rgb(98, 140, 174) 100%);
     border-radius: 10px;
 }
 
