@@ -10,7 +10,7 @@ const hidButton = document.getElementById("hidCancel");
 hidContent.style.display = "none";
 
 showButton.onclick = function() {
-    if (hidPasswordInput.value == "MYcid994.") {
+    if (hidPasswordInput.value == "20292019") {
         hidContent.style.display = "block";
         hidPasswordInput.value = "";
     } 
