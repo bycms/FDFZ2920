@@ -34,21 +34,17 @@ body {
 } 
 
 .actvSum {
-    position: relative;
-    top: 50px;
     width: 90%;
     box-shadow: 5px, 5px, #666;
     border: 1px solid #333;
     border-radius: 8px;
     padding-bottom: 30px;
-    bottom: 50px;
 } 
 
 .actv1 {
     border: 1px solid rgb(130, 130, 130);
     border-radius: 8px;
     width: 90%;
-    top: 30px;
 }
 
 #hidAuth {
