@@ -57,5 +57,5 @@ body {
 
 #hidZone {
     position: relative;
-    bottom: 0;
+    top: 50px;
 }
