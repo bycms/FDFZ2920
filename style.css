@@ -49,3 +49,8 @@ body {
     border-radius: 8px;
     width: 90%;
 }
+
+#hidAuth hidZone {
+    position: relative;
+    bottom: 0;
+} 
