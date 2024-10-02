@@ -16,5 +16,5 @@ showButton.onClick = function() {
 }
 
 hidButton.onClick = function() {
-    hidContent.style.display = "block";
+    hidContent.style.display = "none";
 }
