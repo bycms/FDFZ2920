@@ -28,6 +28,10 @@ body {
     padding-bottom: 30px;
 } 
 
+.standardLink {
+    color: rgb(10, 68, 145);
+}
+
 .leftTen {
     position: relative;
     left: 10px;
