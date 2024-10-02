@@ -32,6 +32,9 @@ body {
 } 
 
 .actv {
-    border: 2px solid rgb(135,27,230);
+    position: relative;
+    top: 50px;
+    width: 90%;
+    border: 2px solid rgb(95,27,230);
     border-radius: 8px;
 } 
