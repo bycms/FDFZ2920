@@ -9,7 +9,7 @@ const hidContent = document.getElementById("hidZone");
 const hidButton = document.getElementById("hidCancel");
 hidContent.style.display = "none";
 
-showButton.onClick = function() {
+showButton.onclick = function() {
     if (hidPasswordInput.value == "MYcid994.") {
         hidContent.style.display = "block";
     } 
@@ -18,6 +18,6 @@ showButton.onClick = function() {
 } 
 }
 
-hidButton.onClick = function() {
+hidButton.onclick = function() {
     hidContent.style.display = "none";
 }
