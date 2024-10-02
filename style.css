@@ -17,7 +17,7 @@ body {
     height: 170px; width: 90%;
     padding-top: 300px;
     background: linear-gradient(to right, rgb(148, 190, 224) 0%, rgb(138, 180, 214) 40%, rgb(98, 140, 174) 100%);
-    box-shadow: 5px, 5px, 5px, #666;
+    box-shadow: 5px, 5px, #666;
     border-radius: 10px;
 }
 
@@ -37,7 +37,7 @@ body {
     position: relative;
     top: 50px;
     width: 90%;
-    box-shadow: 5px, 5px, 5px, #666;
+    box-shadow: 5px, 5px, #666;
     border: 1px solid #333;
     border-radius: 8px;
     padding-bottom: 30px;
