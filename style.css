@@ -24,7 +24,7 @@ body {
 .standardBar {
     position: relative;
     left: 50px;
-    bottom: 30px;
+    top: 30px;
 } 
 
 .leftTen {
