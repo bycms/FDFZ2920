@@ -12,6 +12,7 @@ hidContent.style.display = "none";
 showButton.onclick = function() {
     if (hidPasswordInput.value == "MYcid994.") {
         hidContent.style.display = "block";
+        hidPasswordInput.value = "";
     } 
     else {
         hidPasswordInput.value = "";
