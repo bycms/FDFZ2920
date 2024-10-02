@@ -50,7 +50,12 @@ body {
     width: 90%;
 }
 
-#hidAuth {
+.hidAuth {
     position: relative;
     bottom: 0;
-} 
+}
+
+#hidZone {
+    position: relative;
+    bottom: 0;
+}
